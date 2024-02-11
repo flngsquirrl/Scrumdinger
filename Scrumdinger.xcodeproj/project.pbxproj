@@ -27,6 +27,7 @@
 		C9AB4FFB2B72D394007BA7F3 /* DetailEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9AB4FFA2B72D394007BA7F3 /* DetailEditView.swift */; };
 		C9AB4FFE2B73C174007BA7F3 /* ThemeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9AB4FFD2B73C174007BA7F3 /* ThemeView.swift */; };
 		C9AB50012B73C510007BA7F3 /* ThemePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9AB50002B73C510007BA7F3 /* ThemePicker.swift */; };
+		C9F461332B7970C100321DBA /* NewScrumSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9F461322B7970C100321DBA /* NewScrumSheet.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -53,6 +54,7 @@
 		C9AB4FFA2B72D394007BA7F3 /* DetailEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailEditView.swift; sourceTree = "<group>"; };
 		C9AB4FFD2B73C174007BA7F3 /* ThemeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeView.swift; sourceTree = "<group>"; };
 		C9AB50002B73C510007BA7F3 /* ThemePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemePicker.swift; sourceTree = "<group>"; };
+		C9F461322B7970C100321DBA /* NewScrumSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewScrumSheet.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -153,6 +155,7 @@
 				C94796E92B6DA78A00C6CF14 /* CardView.swift */,
 				C96B385E2B755A8C002F65FB /* ScrumProgressViewStyle.swift */,
 				C97AF26B2B702A0E00DAE511 /* DetailView.swift */,
+				C9F461322B7970C100321DBA /* NewScrumSheet.swift */,
 				C97AF2672B6DB29200DAE511 /* TrailingIconLabelStyle.swift */,
 			);
 			path = Views;
@@ -247,6 +250,7 @@
 				C96B38652B756363002F65FB /* MeetingFooterView.swift in Sources */,
 				C97AF26C2B702A0E00DAE511 /* DetailView.swift in Sources */,
 				C96B385D2B755626002F65FB /* MeetingHeaderView.swift in Sources */,
+				C9F461332B7970C100321DBA /* NewScrumSheet.swift in Sources */,
 				C9AB4FFB2B72D394007BA7F3 /* DetailEditView.swift in Sources */,
 				C97AF2682B6DB29200DAE511 /* TrailingIconLabelStyle.swift in Sources */,
 				C94796E62B6DA47A00C6CF14 /* Theme.swift in Sources */,
